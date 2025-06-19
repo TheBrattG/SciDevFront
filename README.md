@@ -1,5 +1,7 @@
-# Chat with your PDFs
+# Generación Automática de Resúmenes Científicos con Modelos NLP G9  
 
-A Streamlit application to upload PDFs and interact with the PDF content through RAG pipeline implementation. Final product is a chatbot GUI utilizing Langchain framework, Hugging Face embedding, FAISS vectorstore (indexer) and LLM (OpenAI).
-
-Enjoy!
+Este proyecto de titulación consiste en la generación automática de resúmenes científicos 
+        utilizando modelos de procesamiento de lenguaje natural (NLP). Se exploran enfoques basados 
+        en Deep Learning, incluyendo MLP, Transformers como BERT, y técnicas de Transfer Learning 
+        y Fine-Tuning, para mejorar la capacidad de los modelos de sintetizar información relevante 
+        y producir resúmenes precisos.
